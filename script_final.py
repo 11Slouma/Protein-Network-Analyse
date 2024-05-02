@@ -8,7 +8,7 @@ Created on Wed May  1 15:40:04 2024
 
 import random
 import heapq
-import matlap
+
 # Fonction pour lire les protéines à partir du fichier 'prot.txt'
 def read_proteins(file_name):
     with open(file_name, 'r') as file:
